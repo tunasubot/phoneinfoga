@@ -51,6 +51,7 @@ The demo instance has been terminated on December 21th, 2023. It's been expensiv
 - Check for reputation reports, social media, disposable numbers and more
 - Use the graphical user interface to run scans from the browser
 - Programmatic usage with the [REST API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml) and [Go modules](https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2)
+- **NEW**: [Model Context Protocol (MCP) server](./mcp-server/) for AI assistant integration via [MetaMCP](https://github.com/metatool-ai/metamcp)
 
 ## Anti-features
 

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "phoneinfoga": {
+      "command": "node",
+      "args": [
+        "/path/to/phoneinfoga/mcp-server/dist/index.js"
+      ],
+      "env": {
+        "PHONEINFOGA_API_URL": "http://localhost:5000"
+      }
+    }
+  }
+}
